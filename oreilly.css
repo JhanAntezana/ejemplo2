@@ -1,0 +1,55 @@
+.principal{
+    margin: 0vh 20vw;
+}
+.caja2{
+    margin: 0px 20vw;
+}
+.iniciar{
+    display: flex;
+}
+.iniciaSesion{
+    /*background: tomato;*/
+    width: min-content;
+    padding: 2rem;
+    height: max-content;
+}
+.datos{
+    width: 20vw;
+}
+.rojo{
+    color: #ae0223;
+}
+.referencia{
+    text-decoration: none;
+}
+.linea{
+    margin: 3vh 5rem;
+    background: gray;
+    width: 1px;
+    height: 50vmin;
+    top: 5%;
+}
+
+.con{
+    text-decoration: none;
+    display: block;
+    margin: 5vh;
+    padding: 2vh 4vw;
+    color: white;
+    border-radius:  2vmax;
+}
+.apple{
+    background: black;
+}
+.facebook{
+    background: #395995;
+}
+.twitter{
+    background: #1da1f3;
+}
+.google{
+    background: #e94235;
+}
+.linkedin{
+    background: #0077b5;
+}
